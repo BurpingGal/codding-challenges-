@@ -1,0 +1,8 @@
+How this works:
+For each input number, it calculates the sum of squares of its digits repeatedly.
+
+It keeps track of numbers seen to detect cycles.
+
+If the number reaches 1, it prints 1.
+
+If a cycle is detected (number repeats without reaching 1), it prints
