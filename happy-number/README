@@ -5,4 +5,4 @@ It keeps track of numbers seen to detect cycles.
 
 If the number reaches 1, it prints 1.
 
-If a cycle is detected (number repeats without reaching 1), it prints
+If a cycle is detected (number repeats without reaching 1), it prints 0
